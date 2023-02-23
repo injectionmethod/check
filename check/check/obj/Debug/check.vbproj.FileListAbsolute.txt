@@ -1,0 +1,12 @@
+C:\Users\Fraser\source\repos\check\check\bin\Debug\check.exe.config
+C:\Users\Fraser\source\repos\check\check\bin\Debug\check.exe
+C:\Users\Fraser\source\repos\check\check\bin\Debug\check.pdb
+C:\Users\Fraser\source\repos\check\check\bin\Debug\check.xml
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.vbproj.AssemblyReference.cache
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.Resources.resources
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.vbproj.GenerateResource.cache
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.vbproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.exe
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.xml
+C:\Users\Fraser\source\repos\check\check\obj\Debug\check.pdb
